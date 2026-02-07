@@ -1,0 +1,6 @@
+text,cleaned_text,processed_text,label,label_encoded
+The quick brown fox jumps over the lazy dog.,the quick brown fox jumps over the lazy dog,quick brown fox jump lazy dog,A,0
+Natural Language Processing is fascinating!,natural language processing is fascinating,natural language processing fascinating,B,1
+Machine Learning and AI are revolutionizing technology.,machine learning and ai are revolutionizing technology,machine learning ai revolutionizing technology,A,0
+Python is a great programming language.,python is a great programming language,python great programming language,C,2
+Data science involves statistics and programming.,data science involves statistics and programming,data science involves statistic programming,B,1
